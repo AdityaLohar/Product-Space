@@ -19,7 +19,7 @@ export default {
         'inner-left-right': 'inset -8px 0 8px -8px rgba(0, 0, 0, 0.3), inset 8px 0 8px -8px rgba(0, 0, 0, 0.3)',
       },
       fontFamily: {
-        sans: ['Roboto', 'sans-serif'],
+        sans: ['Satoshi' ,'Roboto', 'sans-serif'],
       },
     },
   },
