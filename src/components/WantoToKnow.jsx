@@ -5,7 +5,7 @@ const WantoToKnow = () => {
         <div>
             <div className="text-white flex flex-col justify-center items-center min-h-[50vh] px-4">
                 <div className="pb-8">
-                    <div className="hidden md:block text-xl md:text-3xl md:text-[41px] font-bold text-center pt-10 pb-2">
+                    <div className="hidden md:block text-2xl md:text-3xl md:text-[41px] font-bold text-center pt-10 pb-2">
                         <p>Want to know if PM is the right fit <span className="text-yellow-500">for you</span>?</p>
                     </div>
                     <div className="md:hidden text-xl md:text-3xl md:text-[41px] font-bold text-center pt-10 pb-2">
